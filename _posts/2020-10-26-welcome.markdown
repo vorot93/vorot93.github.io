@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2020-10-26 04:00:00 +0300
+categories: ethereum
+---
+Welcome!
+
+I'm Artem. I've been a core contributor at two Ethereum clients for the good portion of 2020: parity-ethereum/OpenEthereum and turbo-geth, doing major work especially on P2P networking.
+
+https://github.com/vorot93
+
+There are quite a few thoughts that strike you every day as you dig deep in Ethereum's guts. You won't find them in the news, Twitter or some Ethereum primer. I'd like to share some of them with you here.
